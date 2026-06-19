@@ -1,5 +1,5 @@
 # REPOSTERIA-PARIS-
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -78,7 +78,7 @@
     <li>Pedidos personalizados para bodas, cumpleaños y eventos</li>
 </ul>
         </div>
-    </section>
+   
 
 <!-- SECCIÓN ENLACES (LIGAS) -->
 <section>
@@ -95,5 +95,3 @@
                 <p>📞 Teléfono: +52 229 780 4074</p>
 
 
-</body>
-</html>
